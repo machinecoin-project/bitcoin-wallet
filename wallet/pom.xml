@@ -194,6 +194,8 @@
                             <arguments>
                                 <argument>-sigalg</argument><argument>MD5withRSA</argument>
                                 <argument>-digestalg</argument><argument>SHA1</argument>
+                                <argument>-keystore</argument><argument>~/.machinecoinkeystore/keystore.jks</argument>
+                                <argument>-storepass</argument><argument>androidpassword</argument>
                             </arguments>
                         </configuration>
                     </execution>
