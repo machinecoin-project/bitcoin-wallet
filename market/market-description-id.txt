@@ -1,19 +1,19 @@
-Dengan aplikasi ini Anda selalu mempunyai Litecoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Litecoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+Dengan aplikasi ini Anda selalu mempunyai Machinecoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Machinecoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
 
 FITUR:
 
 • Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
-• Tampilkan saldo dompet dalam Litecoin dan mata uang lainnya.
-• Mengirim dan menerima Litecoin via NFC, kode-QR atau Tautan Litecoin.
-• Buku alamat untuk alamat penggunaan litecoin secara reguler.
+• Tampilkan saldo dompet dalam Machinecoin dan mata uang lainnya.
+• Mengirim dan menerima Machinecoin via NFC, kode-QR atau Tautan Machinecoin.
+• Buku alamat untuk alamat penggunaan Machinecoin secara reguler.
 • Masukkan transaksi saat offline, akan dilaksanakan ketika online.
-• Notifikasi sistem untuk konektivitas Litecoin dan menerima koin.
-• Widget Apl untuk saldo Litecoin.
+• Notifikasi sistem untuk konektivitas Machinecoin dan menerima koin.
+• Widget Apl untuk saldo Machinecoin.
 
-Anda dapat mengetahui lebih mengenai Litecoin di
+Anda dapat mengetahui lebih mengenai Machinecoin di
 http://machinecoin.de
 
-Jika Anda ingin berkontribusi kepada Litecoin Wallet, proyeknya berada di
+Jika Anda ingin berkontribusi kepada Machinecoin Wallet, proyeknya berada di
 https://github.com/Gitju/machinecoin-android-wallet
 
 Lisensi: GPLv3

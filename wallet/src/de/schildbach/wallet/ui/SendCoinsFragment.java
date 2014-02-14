@@ -673,7 +673,7 @@ public final class SendCoinsFragment extends SherlockFragment
             }
 
             if(input == null) return;
-            Log.d("Litecoin", "SCAN RESULT:" + input);
+            Log.d("Machinecoin", "SCAN RESULT:" + input);
 
             new StringInputParser(input)
             {

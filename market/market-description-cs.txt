@@ -1,18 +1,18 @@
-Tato aplikace je peněženka s Litecoiny pro systém Android. Můžete posílat Litecoiny mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
+Tato aplikace je peněženka s Machinecoiny pro systém Android. Můžete posílat Machinecoiny mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
 
 VLASTNOSTI:
 
-• Zobrazení zůstatku peněženky v Litecoinech a několika jiných měnách.
-• Odesílání a přijímání Litecoinů pomocí NFC, QR-kódů, nebo Litecoin adres.
+• Zobrazení zůstatku peněženky v Machinecoinech a několika jiných měnách.
+• Odesílání a přijímání Machinecoinů pomocí NFC, QR-kódů, nebo Machinecoin adres.
 • Adresář pro často používané adresy.
 • Možnost zadávání transakcí v offline režimu, k jejich zpracování dojde po připojení.
-• Oznamování v liště při synchronizaci a při přijetí Litecoinů.
+• Oznamování v liště při synchronizaci a při přijetí Machinecoinů.
 • Widget s celkovým zůstatkem.
 
-Více informací o Litecoinech
+Více informací o Machinecoinech
 http://machinecoin.de
 
-Pokud chcete přispět do projektu Litecoin Wallet, naleznete jej na adrese
+Pokud chcete přispět do projektu Machinecoin Wallet, naleznete jej na adrese
 https://github.com/Gitju/machinecoin-android-wallet
 
 License: GPLv3

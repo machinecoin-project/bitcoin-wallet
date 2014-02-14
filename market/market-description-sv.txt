@@ -1,18 +1,18 @@
-Detta är en fristående Litecoin plånbok för Android. Du kan skicka Litecoins mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
+Detta är en fristående Machinecoin plånbok för Android. Du kan skicka Machinecoins mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
 
 FUNKTIONER:
 
-• Visa plånbokens värde i Litecoins och andra valutor.
-• Skicka och ta emot Litecoins via NFC, QR-koder eller en Litecoin URL.
-• Adressbok för de Litecoin adresser man använder ofta.
+• Visa plånbokens värde i Machinecoins och andra valutor.
+• Skicka och ta emot Machinecoins via NFC, QR-koder eller en Machinecoin URL.
+• Adressbok för de Machinecoin adresser man använder ofta.
 • Påbörja transaktioner medan du är offline, de utförs när du kommer online.
-• Systemnotifikationer när Litecoins skickats till dig, och när plånboken kommunicerar med nätverket.
+• Systemnotifikationer när Machinecoins skickats till dig, och när plånboken kommunicerar med nätverket.
 • App widget som visar plånbokens värde.
 
-Du kan lära dig mer om Litecoin genom att besöka
+Du kan lära dig mer om Machinecoin genom att besöka
 http://machinecoin.de
 
-Om du vill hjälpa till med utvecklingen av Litecoin Wallet så kan du hitta projektet här
+Om du vill hjälpa till med utvecklingen av Machinecoin Wallet så kan du hitta projektet här
 https://github.com/Gitju/machinecoin-android-wallet
 
 Licens: GPLv3

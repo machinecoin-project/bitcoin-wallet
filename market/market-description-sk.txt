@@ -1,20 +1,20 @@
-Litecoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Litecoin Wallet je prvá mobilná Litecoin aplikácia a preukázateľne aj najbezpečnejšia.
+Machinecoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Machinecoin Wallet je prvá mobilná Machinecoin aplikácia a preukázateľne aj najbezpečnejšia.
 
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku Litecoinov v LTC alebo mLTC.
-• Prepočet hodnoty Litecoinov do viacerých cudzích mien.
-• Posielanie a prijímanie Litecoinov pomocou NFC, QR kódov alebo Litecoin adries.
-• Adresár pre často používané Litecoin adresy.
+• Zobrazenie zostatku Machinecoinov v LTC alebo mLTC.
+• Prepočet hodnoty Machinecoinov do viacerých cudzích mien.
+• Posielanie a prijímanie Machinecoinov pomocou NFC, QR kódov alebo Machinecoin adries.
+• Adresár pre často používané Machinecoin adresy.
 • V offline režime je platba možná aj cez Bluetooth.
-• Notifikácie v stavovej lište pri prijatí Litecoinov.
+• Notifikácie v stavovej lište pri prijatí Machinecoinov.
 • Widget s celkovým zostatkom.
 
-Viac informácií o Litecoine
+Viac informácií o Machinecoine
 http://machinecoin.de
 
-Ak chcete prispieť do projektu Litecoin Wallet nájdete ho na adrese
+Ak chcete prispieť do projektu Machinecoin Wallet nájdete ho na adrese
 https://github.com/Gitju/machinecoin-android-wallet
 
 Licencia: GPLv3

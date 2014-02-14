@@ -15,7 +15,7 @@ Puedes descubrir más sobre Litecoin en
 http://machinecoin.de
 
 Si quieres contribuir a Litecoin Wallet, el proyecto se encuentra en
-https://github.com/Litecoin-Java/bitcoin-wallet
+https://github.com/Gitju/machinecoin-android-wallet
 
 Licencia: GPLv3
 ¡Úsalo bajo tu propio riesgo!

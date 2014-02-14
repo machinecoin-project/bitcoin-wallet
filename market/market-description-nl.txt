@@ -1,18 +1,18 @@
-Dit is een standalone Litecoin Wallet voor uw Android apparaat. U kan direct Litecoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+Dit is een standalone Machinecoin Wallet voor uw Android apparaat. U kan direct Machinecoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
 
 FUNCTIES:
 
-• Weergeven van het wallet saldo in Litecoin en verschillende andere valuta.
-• Verzenden en ontvangen van Litecoin via NFC, QR-codes of Litecoin URLs.
-• Adresboek voor veelgebruikte Litecoin adressen.
+• Weergeven van het wallet saldo in Machinecoin en verschillende andere valuta.
+• Verzenden en ontvangen van Machinecoin via NFC, QR-codes of Machinecoin URLs.
+• Adresboek voor veelgebruikte Machinecoin adressen.
 • Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
-• Systeem melding over Litecoin connectiviteit en ontvangen litecoins.
-• Widget voor Litecoin saldo.
+• Systeem melding over Machinecoin connectiviteit en ontvangen Machinecoins.
+• Widget voor Machinecoin saldo.
 
-Voor meer informatie over Litecoin kunt u terecht op
+Voor meer informatie over Machinecoin kunt u terecht op
 http://machinecoin.de
 
-Als u een bijdrage wil leveren aan Litecoin Wallet, het project is te vinden op 
+Als u een bijdrage wil leveren aan Machinecoin Wallet, het project is te vinden op 
 https://github.com/Gitju/machinecoin-android-wallet
 
 Licentie: GPLv3
