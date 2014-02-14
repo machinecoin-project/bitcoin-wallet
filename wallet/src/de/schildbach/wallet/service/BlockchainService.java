@@ -27,7 +27,7 @@ import com.google.bitcoin.core.StoredBlock;
 import de.schildbach.wallet_ltc.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach
  */
 public interface BlockchainService
 {

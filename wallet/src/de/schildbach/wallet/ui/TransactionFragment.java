@@ -48,7 +48,7 @@ import java.util.Map;
 import java.util.zip.GZIPOutputStream;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach
  */
 
 public final class TransactionFragment extends SherlockFragment

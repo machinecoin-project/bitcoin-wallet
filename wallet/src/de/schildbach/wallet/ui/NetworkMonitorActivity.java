@@ -30,7 +30,7 @@ import de.schildbach.wallet.util.ViewPagerTabs;
 import de.schildbach.wallet_ltc.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach
  */
 public final class NetworkMonitorActivity extends AbstractWalletActivity
 {

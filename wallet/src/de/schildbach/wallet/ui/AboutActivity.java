@@ -34,7 +34,7 @@ import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet_ltc.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach
  */
 public final class AboutActivity extends SherlockPreferenceActivity
 {

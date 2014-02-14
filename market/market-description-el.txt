@@ -10,10 +10,10 @@
 • App widget για το υπόλοιπο των Litecoin.
 
 Μπορείτε να βρείτε περισσότερα για τη χρήση Litecoin στο
-http://litecoin.org
+http://machinecoin.de
 
 Αν θέλετε να συμβάλει στη τη χρήση του Litecoin Wallet, το έργο βρίσκεται εδώ:
-https://github.com/Litecoin-Java/litecoin-wallet
+https://github.com/Gitju/machinecoin-android-wallet
 
 Άδεια: GPLv3
 Χρησιμοποιήστε με δική σας ευθύνη!

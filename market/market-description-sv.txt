@@ -10,10 +10,10 @@ FUNKTIONER:
 • App widget som visar plånbokens värde.
 
 Du kan lära dig mer om Litecoin genom att besöka
-http://litecoin.org
+http://machinecoin.de
 
 Om du vill hjälpa till med utvecklingen av Litecoin Wallet så kan du hitta projektet här
-https://github.com/Litecoin-Java/litecoin-wallet
+https://github.com/Gitju/machinecoin-android-wallet
 
 Licens: GPLv3
 Använd på egen risk!

@@ -12,10 +12,10 @@
 • Виджет для отображения баланса Litecoin.
 
 Вы можете узнать больше о Litecoin на
-http://litecoin.org
+http://machinecoin.de
 
 Если вы хотите помочь бумажнику Litecoin, проект располагается по адресу
-https://github.com/Litecoin-Java/litecoin-wallet
+https://github.com/Gitju/machinecoin-android-wallet
 
 Лицензия: GPLv3
 Используйте на свой риск!

@@ -10,10 +10,10 @@ FUNCTIES:
 • Widget voor Litecoin saldo.
 
 Voor meer informatie over Litecoin kunt u terecht op
-http://litecoin.org
+http://machinecoin.de
 
 Als u een bijdrage wil leveren aan Litecoin Wallet, het project is te vinden op 
-https://github.com/Litecoin-Java/litecoin-wallet
+https://github.com/Gitju/machinecoin-android-wallet
 
 Licentie: GPLv3
 Gebruik op eigen risico!

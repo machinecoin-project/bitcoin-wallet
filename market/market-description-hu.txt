@@ -12,10 +12,10 @@ ELŐNYÖK:
 • Widget a Litecoin egyenlegről.
 
 Bővebben a Litecoin-ról:
-http://litecoin.org
+http://machinecoin.de
 
 Ha hozzájárulnál a Litecoin Wallet projekthez:
-https://github.com/Litecoin-Java/litecoin-wallet
+https://github.com/Gitju/machinecoin-android-wallet
 
 Licensz: GPLv3
 Csak saját felelősségre használható!

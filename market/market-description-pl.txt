@@ -12,7 +12,7 @@ WŁAŚCIWOŚCI:
 • Widget aplikacji dla stanu konta.
 
 Dowiedz się więcej o Litecoin
-http://litecoin.org
+http://machinecoin.de
 
 Jeśli chcesz przyczynić się do rozwoju Litecoin Wallet to projekt znajduje się pod adresem
 https://github.com/Litecoin-Java/bitcoin-wallet

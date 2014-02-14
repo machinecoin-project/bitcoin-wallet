@@ -12,10 +12,10 @@ FONCTIONS :
 • Widget affichant le solde Litecoin.
 
 Vous pouvez en apprendre plus au sujet de Litecoin sur
-http://litecoin.org
+http://machinecoin.de
 
 Si vous voulez contribuer à Litecoin Wallet, le projet se trouve sur
-https://github.com/Litecoin-Java/litecoin-wallet
+https://github.com/Gitju/machinecoin-android-wallet
 
 Licence : GPLv3
 Utilisez à vos propres risques !

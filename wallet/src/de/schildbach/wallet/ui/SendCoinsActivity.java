@@ -33,7 +33,7 @@ import com.actionbarsherlock.view.MenuItem;
 import de.schildbach.wallet_ltc.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach
  */
 public final class SendCoinsActivity extends AbstractBindServiceActivity
 {

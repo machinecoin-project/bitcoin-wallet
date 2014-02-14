@@ -12,10 +12,10 @@ Litecoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak 
 • Litecoin bakiyesini görüntüleyen widget.
 
 Litecoin hakkında daha fazla bilgiyi şurada bulabilirsiniz:
-http://litecoin.org
+http://machinecoin.de
 
 Litecoin Wallet'e iştirak etmek istiyorsanız, projenin adresi şudur:
-https://github.com/Litecoin-Java/litecoin-wallet
+https://github.com/Gitju/machinecoin-android-wallet
 
 Lisans: GPLv3
 Tüm riski siz üstlenmiş olursunuz.

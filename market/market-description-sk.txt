@@ -12,10 +12,10 @@ FUNKCIE:
 • Widget s celkovým zostatkom.
 
 Viac informácií o Litecoine
-http://litecoin.org
+http://machinecoin.de
 
 Ak chcete prispieť do projektu Litecoin Wallet nájdete ho na adrese
-https://github.com/Litecoin-Java/litecoin-wallet
+https://github.com/Gitju/machinecoin-android-wallet
 
 Licencia: GPLv3
 Použitie len na vlastné riziko!

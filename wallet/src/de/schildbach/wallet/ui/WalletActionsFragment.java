@@ -29,7 +29,7 @@ import android.widget.FrameLayout;
 import de.schildbach.wallet_ltc.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach
  */
 public final class WalletActionsFragment extends Fragment
 {

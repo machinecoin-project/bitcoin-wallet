@@ -12,7 +12,7 @@ TRAJTOJ:
 • Aplikaĵa fenestraĵo por Bitmona saldo.
 
 Vi povas trovi pli pri Bitmono ĉe
-http://litecoin.org
+http://machinecoin.de
 
 Se vi volas kontribui al Litecoin Wallet, la projekto lokas ĉe
 https://github.com/Litecoin-Java/bitcoin-wallet

@@ -93,7 +93,7 @@ import de.schildbach.wallet.util.WalletUtils;
 import de.schildbach.wallet_ltc.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach
  */
 public final class WalletActivity extends AbstractOnDemandServiceActivity
 {

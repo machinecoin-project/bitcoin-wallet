@@ -173,8 +173,8 @@ public final class BitcoinIntegration
 	{
 		Toast.makeText(context, "No Litecoin application found.\nPlease install Litecoin Wallet.", Toast.LENGTH_LONG).show();
 
-		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=de.schildbach.wallet"));
-		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://code.google.com/p/bitcoin-wallet/downloads/list"));
+		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=de.machinecoin.wallet"));
+		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://machinecoin.de/installation/"));
 
 		final PackageManager pm = context.getPackageManager();
 		if (pm.resolveActivity(marketIntent, 0) != null)

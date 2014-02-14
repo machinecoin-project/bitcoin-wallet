@@ -12,7 +12,7 @@ CARACTERÍSTICAS:
 • Widget para el saldo de litecoins.
 
 Puedes descubrir más sobre Litecoin en
-http://litecoin.org
+http://machinecoin.de
 
 Si quieres contribuir a Litecoin Wallet, el proyecto se encuentra en
 https://github.com/Litecoin-Java/bitcoin-wallet

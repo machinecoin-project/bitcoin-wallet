@@ -26,7 +26,7 @@ import android.text.Html;
 import de.schildbach.wallet_ltc.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach
  */
 public final class HelpDialogFragment extends DialogFragment
 {

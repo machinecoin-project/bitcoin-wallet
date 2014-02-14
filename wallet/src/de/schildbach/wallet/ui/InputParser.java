@@ -45,7 +45,7 @@ import de.schildbach.wallet.util.Qr;
 import de.schildbach.wallet_ltc.R;
 
 /**
- * @author Andreas Schildbach, Litecoin Dev Team
+ * @author Andreas Schildbach
  */
 public abstract class InputParser
 {
