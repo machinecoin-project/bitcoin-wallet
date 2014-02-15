@@ -1,20 +1,20 @@
-Hab deine Litecoins immer dabei, in deiner Hosentasche! Du zahlst, indem du rasch einen QR-Code scannst. Als Händler empfängst du Zahlungen zuverlässig und sofort. Litecoin Wallet ist die erste mobile Litecoin app, und wohl auch die sicherste!
+Hab deine Machinecoins immer dabei, in deiner Hosentasche! Du zahlst, indem du rasch einen QR-Code scannst. Als Händler empfängst du Zahlungen zuverlässig und sofort. Machinecoin Wallet ist die erste mobile Machinecoin App, und wohl auch die sicherste!
 
 FEATURES:
 
 • Keine Registrierung, Web-Dienst oder Cloud nötig! Diese Wallet ist de-zentral und Peer to Peer.
-• Anzeige von Litecoin-Werten in MAC und mMAC.
+• Anzeige von Machinecoin-Werten in MAC und mMAC.
 • Umrechnung von und zu den nationalen Währungen.
-• Senden und Empfangen von Litecoin via NFC, QR-Codes oder Litecoin URLs.
+• Senden und Empfangen von Machinecoin via NFC, QR-Codes oder Machinecoin URLs.
 • Adressbuch für regelmäßig genutzte Empfänger.
 • Wenn du offline bist, kannst du trotzdem über Bluetooth zahlen.
 • System-Benachrichtigung für den Empfang von Zahlungen.
-• App-Widget zeigt Litecoin-Guthaben an.
+• App-Widget zeigt Machinecoin-Guthaben an.
 
-Weitere Informationen zu Litecoin findest Du unter
+Weitere Informationen zu Machinecoin findest Du unter
 http://machinecoin.de
 
-Wenn Du zu Litecoin Wallet beitragen willst, das Projekt befindet sich auf
+Wenn Du zu Machinecoin Wallet beitragen willst, das Projekt befindet sich auf
 https://github.com/Gitju/machinecoin-android-wallet
 
 Lizenz: GPLv3
