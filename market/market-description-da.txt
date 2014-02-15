@@ -3,7 +3,7 @@ Hav altid dine Machinecoins med dig i din lomme! Du betaler ved hurtigt at scann
 FUNKTIONER:
 
 • Ingen registrering, webservice eller sky behøves! Tegnebogen er decentraliseret og peer-to-peer.
-• Visning af Machinecoin-beløb i LTC og mLTC.
+• Visning af Machinecoin-beløb i MAC og mMAC.
 • Konvertering til og fra lokale valutaer.
 • Afsendelse og modtagelse af Machinecoin via NFC, QR-koder eller Machinecoin-URLer.
 • Adressebog til ofte brugte Machinecoin-adresser.

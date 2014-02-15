@@ -3,7 +3,7 @@ Machinecoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyar
 İŞLEVLERİ:
 
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Machinecoin meblağlarının LTC ve mLTC olarak gösterilmesi.
+• Machinecoin meblağlarının MAC ve mMAC olarak gösterilmesi.
 • Dövizlere ve dövizlerden dönüştürme.
 • NFC, QR kodu veya Machinecoin bağlantıları ile Machinecoin gönderir ve alır.
 • Sık kullanılan Machinecoin adresleri için adres defteri içerir.

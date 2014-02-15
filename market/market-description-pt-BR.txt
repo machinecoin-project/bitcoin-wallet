@@ -3,7 +3,7 @@ Tenha os seus Machinecoins sempre com você, no seu bolso! Efetue pagamentos rap
 CARACTERÍSTICAS:
 
 • Sem necessidade de cadastro, serviço web ou hospedagem! Esta carteira é descentralizada e "peer to peer".
-• Exibe a quantidade de Machinecoins em LTC e mLTC.
+• Exibe a quantidade de Machinecoins em MAC e mMAC.
 • Conversão para moedas nacionais.
 • Envio e recebimento de Machinecoins via NFC, códigos QR ou endereços Machinecoin.
 • Catálogo para guardar os endereços mais utilizados.

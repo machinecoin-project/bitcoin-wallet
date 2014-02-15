@@ -3,7 +3,7 @@ Machinecoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomoc
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku Machinecoinov v LTC alebo mLTC.
+• Zobrazenie zostatku Machinecoinov v MAC alebo mMAC.
 • Prepočet hodnoty Machinecoinov do viacerých cudzích mien.
 • Posielanie a prijímanie Machinecoinov pomocou NFC, QR kódov alebo Machinecoin adries.
 • Adresár pre často používané Machinecoin adresy.

@@ -101,9 +101,9 @@ public class ExchangeRatesProvider extends ContentProvider
 	{
 		try
 		{
-            BTCE_URL = new URL("https://btc-e.com/api/2/ltc_usd/ticker");
-            BTCE_EURO_URL = new URL("https://btc-e.com/api/2/ltc_eur/ticker");
-            VIRCUREX_URL = new URL("https://api.vircurex.com/api/get_last_trade.json?base=LTC&alt=USD");
+            BTCE_URL = new URL("http://ticker.machinecoin.de/?action=exchangerate&base=MAC&alt=USD");
+            BTCE_EURO_URL = new URL("http://ticker.machinecoin.de/?action=exchangerate&base=MAC&alt=EUR");
+            VIRCUREX_URL = new URL("http://ticker.machinecoin.de/?action=lastexchange&base=MAC&alt=USD");
 		}
 		catch (final MalformedURLException x)
 		{

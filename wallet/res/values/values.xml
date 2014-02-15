@@ -13,10 +13,10 @@
 		<item>2/3</item>
 	</string-array>
 	<string-array name="preferences_precision_labels">
-		<item>LTC, 8 digits</item>
-		<item>LTC, 6 digits</item>
-		<item>LTC, 4 digits</item>
-		<item>mLTC, 2 digits</item>
+		<item>MAC, 8 digits</item>
+		<item>MAC, 6 digits</item>
+		<item>MAC, 4 digits</item>
+		<item>mMAC, 2 digits</item>
 	</string-array>
 
 
