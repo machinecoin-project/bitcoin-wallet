@@ -30,7 +30,7 @@ import com.google.bitcoin.params.MainNetParams;
 import com.google.bitcoin.params.TestNet3Params;
 
 import de.schildbach.wallet_mac.R;
-import org.litecoin.LitecoinParams;
+import de.machinecoin.MachinecoinParams;
 
 /**
  * @author Andreas Schildbach
@@ -39,7 +39,7 @@ public class Constants
 {
 	public static final boolean TEST = R.class.getPackage().getName().contains("_test");
 
-	public static final NetworkParameters NETWORK_PARAMETERS = LitecoinParams.get();
+	public static final NetworkParameters NETWORK_PARAMETERS = MachinecoinParams.get();
 	private static final String FILENAME_NETWORK_SUFFIX = "litecoin";
 
 	public static final String WALLET_FILENAME = "wallet" + FILENAME_NETWORK_SUFFIX;
