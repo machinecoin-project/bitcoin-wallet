@@ -5,11 +5,11 @@ CARACTERÍSTICAS:
 • ¡No requiere registro, servidor en la nube o servicio web! Este monedero es auténticamente entre pares (peer-to-peer).
 • Muestra la cantidad de Machinecoins en MAC y mMAC
 • Conversión a divisas nacionales.
-• Envío y recepción de litecoins vía NFC, códigos QR o URL de Machinecoin.
+• Envío y recepción de Machinecoins vía NFC, códigos QR o URL de Machinecoin.
 • Libreta de direcciones para guardar las direcciones Machinecoin más utilizadas.
 • Cuando no tengas conexión, puedes seguir pagando via Bluetooth.
 • Notificación al recibir monedas.
-• Widget para el saldo de litecoins.
+• Widget para el saldo de Machinecoins.
 
 Puedes descubrir más sobre Machinecoin en
 http://machinecoin.de

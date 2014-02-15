@@ -1206,7 +1206,7 @@ public final class SendCoinsFragment extends SherlockFragment
 			    cursor = activity.managedQuery(AddressBookProvider.contentUri(activity.getPackageName()),
                     null, AddressBookProvider.SELECTION_QUERY, new String[] { constraint.toString() }, null);
             } catch(NullPointerException e) {
-                Log.i("wallet_ltc", "NULL Pointer exception when doing address book completion");
+                Log.i("wallet_mac", "NULL Pointer exception when doing address book completion");
                 return null;
             }
 			return cursor;
