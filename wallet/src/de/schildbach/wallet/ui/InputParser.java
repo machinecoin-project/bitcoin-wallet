@@ -76,7 +76,7 @@ public abstract class InputParser
 				}
 				catch (final BitcoinURIParseException x)
 				{
-					error(R.string.input_parser_invalid_litecoin_uri, input);
+					error(R.string.input_parser_invalid_machinecoin_uri, input);
 				}
 			}
 			else if (PATTERN_BITCOIN_ADDRESS.matcher(input).matches())

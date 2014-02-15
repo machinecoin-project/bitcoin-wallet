@@ -143,7 +143,7 @@
 	<string name="scan_camera_problem_dialog_title">Przepraszam</string>
 	<string name="scan_camera_problem_dialog_message">Nastąpił problem z aparatem fotograficznym. Prawdopodobnie musisz zrestartować urządzenie.</string>
 	<string name="input_parser_cannot_classify">Nie udało się sklasyfikować danych wejściowych:\n%s</string>
-	<string name="input_parser_invalid_litecoin_uri">Niepoprawny URI Machinecoin:\n%s</string>
+	<string name="input_parser_invalid_machinecoin_uri">Niepoprawny URI Machinecoin:\n%s</string>
 	<string name="input_parser_invalid_address">Otrzymano niepoprawny adres Machinecoin!\n(Pomylono Testnet z Prodnet?)</string>
 	<string name="input_parser_invalid_transaction">Transakcja nie powiodła się:\n%s</string>
 	<string name="preferences_activity_title">Ustawienia</string>
@@ -179,7 +179,7 @@
 	<string name="report_issue_dialog_mail_intent_chooser">Wyślij zgłoszenie używając…</string>
 	<string name="about_title">O</string>
 	<string name="about_license_title">Licencja</string>
-	<string name="about_credits_litecoinj_title">Ta aplikacja korzysta z \'machinecoinj\'</string>
+	<string name="about_credits_machinecoinj_title">Ta aplikacja korzysta z \'machinecoinj\'</string>
 	<string name="about_credits_zxing_title">Ta aplikacja korzysta z \'zxing\'</string>
 	<string name="about_credits_icon_title">Ta aplikacja korzysta z ikon od \'bitboy\'</string>
 	<string name="about_community_googleplus_title">Społeczność Google+</string>

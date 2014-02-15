@@ -40,7 +40,7 @@ public class Constants
 	public static final boolean TEST = R.class.getPackage().getName().contains("_test");
 
 	public static final NetworkParameters NETWORK_PARAMETERS = MachinecoinParams.get();
-	private static final String FILENAME_NETWORK_SUFFIX = "litecoin";
+	private static final String FILENAME_NETWORK_SUFFIX = "machinecoin";
 
 	public static final String WALLET_FILENAME = "wallet" + FILENAME_NETWORK_SUFFIX;
 
@@ -49,7 +49,7 @@ public class Constants
 	public static final String WALLET_KEY_BACKUP_BASE58 = "key-backup-base58" + FILENAME_NETWORK_SUFFIX;
 
 	public static final File EXTERNAL_WALLET_BACKUP_DIR = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS);
-	public static final String EXTERNAL_WALLET_KEY_BACKUP = "litecoin-wallet-keys";
+	public static final String EXTERNAL_WALLET_KEY_BACKUP = "machinecoin-wallet-keys";
 
 	public static final String BLOCKCHAIN_FILENAME = "blockchain" + FILENAME_NETWORK_SUFFIX;
 

@@ -143,7 +143,7 @@
 	<string name="scan_camera_problem_dialog_title">Desculpe</string>
 	<string name="scan_camera_problem_dialog_message">Ocorreu um problema com a câmera. Você provavelmente precisará reiniciar o dispositivo.</string>
 	<string name="input_parser_cannot_classify">Não é possível classificar as entradas:\n%s</string>
-	<string name="input_parser_invalid_litecoin_uri">Endereços Machinecoin inválidos:\n%s</string>
+	<string name="input_parser_invalid_machinecoin_uri">Endereços Machinecoin inválidos:\n%s</string>
 	<string name="input_parser_invalid_address">Endereço inválido de Machinecoin!\n(Mixing up Mainnet/Testnet?)</string>
 	<string name="input_parser_invalid_transaction">Transação inválida:\n%s</string>
 	<string name="preferences_activity_title">Configurações</string>
@@ -179,7 +179,7 @@
 	<string name="report_issue_dialog_mail_intent_chooser">Enviar relatório usando…</string>
 	<string name="about_title">Sobre</string>
 	<string name="about_license_title">Licença</string>
-	<string name="about_credits_litecoinj_title">Este aplicativo utiliza machinecoinj %s</string>
+	<string name="about_credits_machinecoinj_title">Este aplicativo utiliza machinecoinj %s</string>
 	<string name="about_credits_zxing_title">Este aplicativo utiliza \'zxing\'</string>
 	<string name="about_credits_icon_title">Este aplicativo utiliza icones \'bitboy\'</string>
 	<string name="about_community_googleplus_title">Comunidade Google+</string>

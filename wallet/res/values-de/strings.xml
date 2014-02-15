@@ -157,7 +157,7 @@
 	<string name="scan_camera_problem_dialog_title">Sorry</string>
 	<string name="scan_camera_problem_dialog_message">Die Kamera hat ein Problem. Evtl. musst du dein Gerät neu starten.</string>
 
-	<string name="input_parser_invalid_litecoin_uri">Ungültige Machinecoin-URI:\n%s</string>
+	<string name="input_parser_invalid_machinecoin_uri">Ungültige Machinecoin-URI:\n%s</string>
 	<string name="input_parser_invalid_address">Ungültige Machinecoin-Adresse gelesen!\n(Versuchst Du Mainnet/Testnet zu mischen?)</string>
 
 	<string name="preferences_activity_title">Einstellungen</string>
@@ -195,7 +195,7 @@
 
 	<string name="about_title">Über</string>
 	<string name="about_license_title">Lizenz</string>
-	<string name="about_credits_litecoinj_title">Diese App nutzt machinecoinj %s</string>
+	<string name="about_credits_machinecoinj_title">Diese App nutzt machinecoinj %s</string>
 	<string name="about_credits_zxing_title">"Diese App nutzt 'zxing'"</string>
 	<string name="about_credits_icon_title">"Diese App nutzt ein Icon von 'bitboy'"</string>
 	<string name="about_community_googleplus_title">Google+ Community</string>
