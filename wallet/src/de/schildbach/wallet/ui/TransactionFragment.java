@@ -35,7 +35,7 @@ import de.schildbach.wallet.AddressBookProvider;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.util.*;
-import de.schildbach.wallet_ltc.R;
+import de.schildbach.wallet_mac.R;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
@@ -266,7 +266,7 @@ public final class TransactionFragment extends SherlockFragment
 				final byte[] gzippedSerializedTx = bos.toByteArray();
 				final boolean useCompressioon = gzippedSerializedTx.length < serializedTx.length;
 
-				final StringBuilder txStr = new StringBuilder("ltctx:");
+				final StringBuilder txStr = new StringBuilder("mactx:");
 				txStr.append(useCompressioon ? 'Z' : '-');
 				txStr.append(Base43.encode(useCompressioon ? gzippedSerializedTx : serializedTx));
 				final Bitmap qrCodeBitmap = Qr.bitmap(txStr.toString().toUpperCase(Locale.US), 512);
