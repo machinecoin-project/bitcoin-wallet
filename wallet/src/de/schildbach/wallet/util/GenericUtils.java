@@ -122,7 +122,7 @@ public class GenericUtils
 
     public static BigDecimal fromNanoCoins(final BigInteger value, final int shift)
     {
-        return new BigDecimal(value).movePointLeft(8 - shift);
+        return new BigDecimal(value, 8 - shift).movePointLeft(8 - shift);
     }
 
 }
