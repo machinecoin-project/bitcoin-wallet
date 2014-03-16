@@ -12,7 +12,7 @@ ELŐNYÖK:
 • Widget a Machinecoin egyenlegről.
 
 Bővebben a Machinecoin-ról:
-http://machinecoin.de
+http://machinecoin.org
 
 Ha hozzájárulnál a Machinecoin Wallet projekthez:
 https://github.com/Gitju/machinecoin-android-wallet

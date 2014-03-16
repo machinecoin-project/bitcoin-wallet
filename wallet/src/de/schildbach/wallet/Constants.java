@@ -30,7 +30,7 @@ import com.google.bitcoin.params.MainNetParams;
 import com.google.bitcoin.params.TestNet3Params;
 
 import de.schildbach.wallet_mac.R;
-import de.machinecoin.MachinecoinParams;
+import org.machinecoin.MachinecoinParams;
 
 /**
  * @author Andreas Schildbach
@@ -55,8 +55,8 @@ public class Constants
 
 	public static final String CHECKPOINTS_FILENAME = "checkpoints" + FILENAME_NETWORK_SUFFIX;
 
-    private static final String EXPLORE_BASE_URL_PROD = "http://blockchain.machinecoin.de:8080/";
-    private static final String EXPLORE2_BASE_URL_PROD = "http://blockchain.machinecoin.de:8080/";
+    private static final String EXPLORE_BASE_URL_PROD = "http://blockchain.machinecoin.org:8080/";
+    private static final String EXPLORE2_BASE_URL_PROD = "http://blockchain.machinecoin.org:8080/";
     public static final String EXPLORE_BASE_URL = EXPLORE_BASE_URL_PROD;
     public static final String EXPLORE2_BASE_URL = EXPLORE2_BASE_URL_PROD;
 
@@ -96,7 +96,7 @@ public class Constants
     //TODO: Lots of these
 	public static final String LICENSE_URL = "http://www.gnu.org/licenses/gpl-3.0.txt";
 	public static final String SOURCE_URL = "https://github.com/Gitju/machinecoin-android-wallet";
-	public static final String BINARY_URL = "http://machinecoin.de/installation/";
+	public static final String BINARY_URL = "http://machinecoin.org/installation/";
 	public static final String CREDITS_BITCOINJ_URL = "https://github.com/Gitju/machinecoinj";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
 	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/Machinecoin";

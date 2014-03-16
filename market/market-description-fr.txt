@@ -12,7 +12,7 @@ FONCTIONS :
 • Widget affichant le solde Machinecoin.
 
 Vous pouvez en apprendre plus au sujet de Machinecoin sur
-http://machinecoin.de
+http://machinecoin.org
 
 Si vous voulez contribuer à Machinecoin Wallet, le projet se trouve sur
 https://github.com/Gitju/machinecoin-android-wallet

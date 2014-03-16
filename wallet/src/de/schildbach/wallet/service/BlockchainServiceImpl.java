@@ -39,7 +39,7 @@ import android.util.Log;
 import com.google.bitcoin.script.Script;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import de.machinecoin.MachinecoinPeerDBDiscovery;
+import org.machinecoin.MachinecoinPeerDBDiscovery;
 
 import android.annotation.SuppressLint;
 import android.app.NotificationManager;

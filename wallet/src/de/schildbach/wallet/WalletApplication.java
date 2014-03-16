@@ -35,7 +35,7 @@ import java.util.concurrent.TimeUnit;
 import javax.annotation.Nonnull;
 
 import org.bitcoinj.wallet.Protos;
-import de.machinecoin.MachinecoinWallet;
+import org.machinecoin.MachinecoinWallet;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

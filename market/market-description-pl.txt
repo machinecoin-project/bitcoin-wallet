@@ -12,7 +12,7 @@ WŁAŚCIWOŚCI:
 • Widget aplikacji dla stanu konta.
 
 Dowiedz się więcej o Machinecoin
-http://machinecoin.de
+http://machinecoin.org
 
 Jeśli chcesz przyczynić się do rozwoju Machinecoin Wallet to projekt znajduje się pod adresem
 https://github.com/Gitju/machinecoin-android-wallet

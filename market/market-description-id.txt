@@ -11,7 +11,7 @@ FITUR:
 • Widget Apl untuk saldo Machinecoin.
 
 Anda dapat mengetahui lebih mengenai Machinecoin di
-http://machinecoin.de
+http://machinecoin.org
 
 Jika Anda ingin berkontribusi kepada Machinecoin Wallet, proyeknya berada di
 https://github.com/Gitju/machinecoin-android-wallet

@@ -10,7 +10,7 @@ VLASTNOSTI:
 • Widget s celkovým zůstatkem.
 
 Více informací o Machinecoinech
-http://machinecoin.de
+http://machinecoin.org
 
 Pokud chcete přispět do projektu Machinecoin Wallet, naleznete jej na adrese
 https://github.com/Gitju/machinecoin-android-wallet
