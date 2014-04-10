@@ -6,7 +6,7 @@
 
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
-	<version>3.30.7</version>
+	<version>3.30.7.1</version>
 	<name>Machinecoin Wallet</name>
 
 	<parent>
