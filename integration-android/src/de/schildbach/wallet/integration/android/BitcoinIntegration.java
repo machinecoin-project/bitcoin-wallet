@@ -174,7 +174,7 @@ public final class BitcoinIntegration
 		Toast.makeText(context, "No Machinecoin application found.\nPlease install Machinecoin Wallet.", Toast.LENGTH_LONG).show();
 
 		final Intent marketIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=org.machinecoin.wallet"));
-		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://machinecoin.org/installation/"));
+		final Intent binaryIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://machinecoin.org/installation.html"));
 
 		final PackageManager pm = context.getPackageManager();
 		if (pm.resolveActivity(marketIntent, 0) != null)

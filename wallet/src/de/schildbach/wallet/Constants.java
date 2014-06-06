@@ -96,7 +96,7 @@ public class Constants
     //TODO: Lots of these
 	public static final String LICENSE_URL = "http://www.gnu.org/licenses/gpl-3.0.txt";
 	public static final String SOURCE_URL = "https://github.com/Gitju/machinecoin-android-wallet";
-	public static final String BINARY_URL = "http://machinecoin.org/installation/";
+	public static final String BINARY_URL = "http://machinecoin.org/installation.html";
 	public static final String CREDITS_BITCOINJ_URL = "https://github.com/Gitju/machinecoinj";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
 	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/Machinecoin";
