@@ -119,10 +119,21 @@ public class GenericUtils
 
 		return nanoCoins;
 	}
+    public static BigInteger toNanoCoinsRounded(final String value, final int shift)
+    {
+        final BigInteger nanoCoins = new BigDecimal(value).movePointRight(8 - shift).toBigInteger();
+
+        if (nanoCoins.signum() < 0)
+            throw new IllegalArgumentException("negative amount: " + value);
+        if (nanoCoins.compareTo(Constants.NETWORK_PARAMETERS.getMaxMoney()) > 0)
+            throw new IllegalArgumentException("amount too large: " + value);
+
+        return nanoCoins;
+    }
 
     public static BigDecimal fromNanoCoins(final BigInteger value, final int shift)
     {
-        return new BigDecimal(value, 8 - shift).movePointLeft(8 - shift);
+        return new BigDecimal(value).movePointLeft(8 - shift);
     }
 
 }

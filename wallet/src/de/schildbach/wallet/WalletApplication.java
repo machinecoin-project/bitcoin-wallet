@@ -536,7 +536,7 @@ public class WalletApplication extends Application
 		if (memoryClass <= Constants.MEMORY_CLASS_LOWEND)
 			return 1; // was 4
 		else
-			return 1; // was 6
+			return 2; // was 6
 	}
 
 	public static void scheduleStartBlockchainService(@Nonnull final Context context)
