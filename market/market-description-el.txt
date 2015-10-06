@@ -13,7 +13,7 @@
 http://machinecoin.org
 
 Αν θέλετε να συμβάλει στη τη χρήση του Machinecoin Wallet, το έργο βρίσκεται εδώ:
-https://github.com/Gitju/machinecoin-android-wallet
+https://github.com/machinecoin-project/machinecoin-android-wallet
 
 Άδεια: GPLv3
 Χρησιμοποιήστε με δική σας ευθύνη!

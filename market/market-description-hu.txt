@@ -15,7 +15,7 @@ Bővebben a Machinecoin-ról:
 http://machinecoin.org
 
 Ha hozzájárulnál a Machinecoin Wallet projekthez:
-https://github.com/Gitju/machinecoin-android-wallet
+https://github.com/machinecoin-project/machinecoin-android-wallet
 
 Licensz: GPLv3
 Csak saját felelősségre használható!

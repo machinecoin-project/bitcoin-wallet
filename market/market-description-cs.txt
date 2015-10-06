@@ -13,7 +13,7 @@ Více informací o Machinecoinech
 http://machinecoin.org
 
 Pokud chcete přispět do projektu Machinecoin Wallet, naleznete jej na adrese
-https://github.com/Gitju/machinecoin-android-wallet
+https://github.com/machinecoin-project/machinecoin-android-wallet
 
 License: GPLv3
 Použití pouze na vlastní riziko!

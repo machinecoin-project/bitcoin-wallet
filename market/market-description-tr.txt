@@ -15,7 +15,7 @@ Machinecoin hakkında daha fazla bilgiyi şurada bulabilirsiniz:
 http://machinecoin.org
 
 Machinecoin Wallet'e iştirak etmek istiyorsanız, projenin adresi şudur:
-https://github.com/Gitju/machinecoin-android-wallet
+https://github.com/machinecoin-project/machinecoin-android-wallet
 
 Lisans: GPLv3
 Tüm riski siz üstlenmiş olursunuz.

@@ -14,7 +14,7 @@ Anda dapat mengetahui lebih mengenai Machinecoin di
 http://machinecoin.org
 
 Jika Anda ingin berkontribusi kepada Machinecoin Wallet, proyeknya berada di
-https://github.com/Gitju/machinecoin-android-wallet
+https://github.com/machinecoin-project/machinecoin-android-wallet
 
 Lisensi: GPLv3
 Gunakan dengan resiko Anda!

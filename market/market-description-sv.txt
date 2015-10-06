@@ -13,7 +13,7 @@ Du kan lära dig mer om Machinecoin genom att besöka
 http://machinecoin.org
 
 Om du vill hjälpa till med utvecklingen av Machinecoin Wallet så kan du hitta projektet här
-https://github.com/Gitju/machinecoin-android-wallet
+https://github.com/machinecoin-project/machinecoin-android-wallet
 
 Licens: GPLv3
 Använd på egen risk!

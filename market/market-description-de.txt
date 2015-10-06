@@ -15,7 +15,7 @@ Weitere Informationen zu Machinecoin findest Du unter
 http://machinecoin.org
 
 Wenn Du zu Machinecoin Wallet beitragen willst, das Projekt befindet sich auf
-https://github.com/Gitju/machinecoin-android-wallet
+https://github.com/machinecoin-project/machinecoin-android-wallet
 
 Lizenz: GPLv3
 Nutzung auf eigene Gefahr!

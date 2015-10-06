@@ -15,7 +15,7 @@ Vi povas trovi pli pri Bitmono ĉe
 http://machinecoin.org
 
 Se vi volas kontribui al Machinecoin Wallet, la projekto lokas ĉe
-https://github.com/Gitju/machinecoin-android-wallet
+https://github.com/machinecoin-project/machinecoin-android-wallet
 
 Licenco: GPLv3
 Uzu je via propra risko!

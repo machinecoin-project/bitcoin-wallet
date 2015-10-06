@@ -15,7 +15,7 @@
 http://machinecoin.org
 
 如果要貢獻幫助給 Machinecoin Wallet，請到專案網頁查閱
-https://github.com/Gitju/machinecoin-android-wallet
+https://github.com/machinecoin-project/machinecoin-android-wallet
 
 程式授權: GPLv3
 注意使用安全!

@@ -15,7 +15,7 @@
 http://machinecoin.org
 
 Если вы хотите помочь бумажнику Machinecoin, проект располагается по адресу
-https://github.com/Gitju/machinecoin-android-wallet
+https://github.com/machinecoin-project/machinecoin-android-wallet
 
 Лицензия: GPLv3
 Используйте на свой риск!

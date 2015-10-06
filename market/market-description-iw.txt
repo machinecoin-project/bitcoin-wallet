@@ -14,7 +14,7 @@ FEATURES:
 לפרטים נוספים : http://machinecoin.org
 
 הארנק הוא פרויקט בקוד פתוח בגוגל, אם ברצונך לתרום:
-https://github.com/Gitju/machinecoin-android-wallet
+https://github.com/machinecoin-project/machinecoin-android-wallet
 
 רישיון : GPLv3
 שים לב: השימוש הוא באחריות המשתמש.
