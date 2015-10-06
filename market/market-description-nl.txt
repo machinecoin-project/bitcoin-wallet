@@ -10,7 +10,7 @@ FUNCTIES:
 • Widget voor Machinecoin saldo.
 
 Voor meer informatie over Machinecoin kunt u terecht op
-http://gitju.github.io/Machinecoin.org
+http://machinecoin-project.github.io/machinecoin.org
 
 Als u een bijdrage wil leveren aan Machinecoin Wallet, het project is te vinden op 
 https://github.com/machinecoin-project/machinecoin-android-wallet

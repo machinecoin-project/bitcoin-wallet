@@ -12,7 +12,7 @@ CARACTERÍSTICAS:
 • Widget para saldo de Machinecoins.
 
 Mais informações sobre Machinecoin em
-http://gitju.github.io/Machinecoin.org
+http://machinecoin-project.github.io/machinecoin.org
 
 Se você deseja contribuir com o Machinecoin Wallet, o projeto encontra-se em
 https://github.com/machinecoin-project/machinecoin-android-wallet

@@ -12,7 +12,7 @@ FUNKCIE:
 • Widget s celkovým zostatkom.
 
 Viac informácií o Machinecoine
-http://gitju.github.io/Machinecoin.org
+http://machinecoin-project.github.io/machinecoin.org
 
 Ak chcete prispieť do projektu Machinecoin Wallet nájdete ho na adrese
 https://github.com/machinecoin-project/machinecoin-android-wallet

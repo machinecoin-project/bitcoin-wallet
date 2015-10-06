@@ -12,7 +12,7 @@ FUNKTIONER:
 • App-widget for Machinecoin-saldo.
 
 Du kan finde mere om Machinecoin på
-http://gitju.github.io/Machinecoin.org
+http://machinecoin-project.github.io/machinecoin.org
 
 Hvis du vil bidrage til Machinecoin Wallet, kan projektet findes på
 https://github.com/machinecoin-project/machinecoin-android-wallet

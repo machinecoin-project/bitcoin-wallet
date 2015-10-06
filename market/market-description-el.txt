@@ -10,7 +10,7 @@
 • App widget για το υπόλοιπο των Machinecoin.
 
 Μπορείτε να βρείτε περισσότερα για τη χρήση Machinecoin στο
-http://gitju.github.io/Machinecoin.org
+http://machinecoin-project.github.io/machinecoin.org
 
 Αν θέλετε να συμβάλει στη τη χρήση του Machinecoin Wallet, το έργο βρίσκεται εδώ:
 https://github.com/machinecoin-project/machinecoin-android-wallet

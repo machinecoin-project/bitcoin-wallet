@@ -11,7 +11,7 @@ FEATURES:
 • וידגט להצגת יתרה.
 
 בהתקנה ראשונה עלול להיראות מסך לבן לזמן מה, הדבר תקין.
-לפרטים נוספים : http://gitju.github.io/Machinecoin.org
+לפרטים נוספים : http://machinecoin-project.github.io/machinecoin.org
 
 הארנק הוא פרויקט בקוד פתוח בגוגל, אם ברצונך לתרום:
 https://github.com/machinecoin-project/machinecoin-android-wallet
