@@ -12,7 +12,7 @@ FEATURES:
 • App widget for Machinecoin balance.
 
 You can find more about Machinecoin at
-http://machinecoin.org
+http://gitju.github.io/Machinecoin.org
 
 If you want to contribute to Machinecoin Wallet, the project is located at
 https://github.com/machinecoin-project/machinecoin-android-wallet

@@ -12,7 +12,7 @@ Machinecoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyar
 • Machinecoin bakiyesini görüntüleyen widget.
 
 Machinecoin hakkında daha fazla bilgiyi şurada bulabilirsiniz:
-http://machinecoin.org
+http://gitju.github.io/Machinecoin.org
 
 Machinecoin Wallet'e iştirak etmek istiyorsanız, projenin adresi şudur:
 https://github.com/machinecoin-project/machinecoin-android-wallet

@@ -12,7 +12,7 @@ TRAJTOJ:
 • Aplikaĵa fenestraĵo por Bitmona saldo.
 
 Vi povas trovi pli pri Bitmono ĉe
-http://machinecoin.org
+http://gitju.github.io/Machinecoin.org
 
 Se vi volas kontribui al Machinecoin Wallet, la projekto lokas ĉe
 https://github.com/machinecoin-project/machinecoin-android-wallet

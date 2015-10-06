@@ -10,7 +10,7 @@ FUNKTIONER:
 • App widget som visar plånbokens värde.
 
 Du kan lära dig mer om Machinecoin genom att besöka
-http://machinecoin.org
+http://gitju.github.io/Machinecoin.org
 
 Om du vill hjälpa till med utvecklingen av Machinecoin Wallet så kan du hitta projektet här
 https://github.com/machinecoin-project/machinecoin-android-wallet

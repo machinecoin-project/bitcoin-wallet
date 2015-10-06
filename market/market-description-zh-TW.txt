@@ -12,7 +12,7 @@
 • 比特幣餘額桌面小工具。
 
 關於比特幣你可以查閱
-http://machinecoin.org
+http://gitju.github.io/Machinecoin.org
 
 如果要貢獻幫助給 Machinecoin Wallet，請到專案網頁查閱
 https://github.com/machinecoin-project/machinecoin-android-wallet

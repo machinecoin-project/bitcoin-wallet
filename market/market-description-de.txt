@@ -12,7 +12,7 @@ FEATURES:
 • App-Widget zeigt Machinecoin-Guthaben an.
 
 Weitere Informationen zu Machinecoin findest Du unter
-http://machinecoin.org
+http://gitju.github.io/Machinecoin.org
 
 Wenn Du zu Machinecoin Wallet beitragen willst, das Projekt befindet sich auf
 https://github.com/machinecoin-project/machinecoin-android-wallet
